@@ -1,0 +1,31 @@
+
+.registeration-form {
+    background-color: red; 
+}
+table{
+    border: red;
+}
+
+label{
+    font-weight: 700;
+    color: black;
+}
+.form-input{
+    width: 120%;
+    margin: 5px ;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+.addnew{
+    width: 20%;
+}
+
+
+.selected {
+    background-color:hotpink;
+    color: black;
+}
